@@ -28,7 +28,7 @@ apps=(
 # System
   launchbar
   keyboard-maestro
-  install totalfinder
+  totalfinder
   dropbox
   bettertouchtool
   karabiner
