@@ -24,6 +24,7 @@
 - accessibility > mouse & trackpad > trackpad > enable dragging > three finger drag
 - trackpad > tracking speed to 80%
 - mouse > tracking speed > 80%
+- mouse > secondary click > check
 - security & privacy > general > allow apps from anywhere
 
 
