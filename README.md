@@ -86,7 +86,7 @@ Launch apps above which require login.
 Run sketch toolbox.
 
 Install:
- 
+
 - Sync plugins
 - Cemre Sketch plugins
 - Sketch dynamic button
@@ -105,6 +105,11 @@ Install:
 ### Set up finder sidebar:
 
 ![Finder screenshot](http://cl.ly/dvO5/Image%202015-11-26%20at%202.29.30%20PM.png)
+
+
+# Mackup restore on secondary computers
+
+`sh ~/Library/Mobile\ Documents/com~apple~CloudDocs/Mackup/shell/mackup-restore-on-secondary-computers.sh`
 
 
 ## Open questions:
