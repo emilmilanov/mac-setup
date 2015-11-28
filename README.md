@@ -95,6 +95,7 @@ Install:
 
 ## Set up default open with app
 .txt, .md - FoldingText
+.avi, .mp4 -vlc
 
 
 ## Install adobe
