@@ -113,6 +113,10 @@ Install:
 
 `sh ~/Library/Mobile\ Documents/com~apple~CloudDocs/Mackup/shell/mackup-restore-on-secondary-computers.sh`
 
+# Periodic updates
+
+# Update zsh
+cd .oh-my-zsh && git stash && upgrade_oh_my_zsh
 
 ## Open questions:
 
