@@ -115,8 +115,13 @@ Install:
 
 # Periodic updates
 
-# Update zsh
-cd .oh-my-zsh && git stash && upgrade_oh_my_zsh
+## Update zsh
+`cd .oh-my-zsh && git stash && upgrade_oh_my_zsh`
+
+## Vundle plugins update
+`vim -c VundleUpdate -c quitall`
+
+
 
 ## Open questions:
 
