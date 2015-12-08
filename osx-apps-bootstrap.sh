@@ -59,6 +59,7 @@ apps=(
 # toys
   keyboardcleantool
   caffeine
+  tunnelbear
 
 # non work
   utorrent
