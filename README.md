@@ -76,6 +76,8 @@
 - Wunderlist
 - Cloudapp
 - codebox
+- pages
+- numbers
 
 Launch apps above which require login.
 
