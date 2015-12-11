@@ -26,6 +26,7 @@ brew tap caskroom/fonts
 apps=(
 
 # System
+  1password
   launchbar
   keyboard-maestro
   totalfinder
