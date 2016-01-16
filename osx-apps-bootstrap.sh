@@ -47,6 +47,7 @@ apps=(
   firefox
   transmit
   imageoptim
+  sketch
   sketch-toolbox
 
 # communication
