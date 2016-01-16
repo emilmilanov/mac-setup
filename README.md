@@ -71,7 +71,6 @@
 - FoldingText
 - Icon Slate
 - Inboard - make images backup
-- sketch
 - soulver
 - Wunderlist
 - Cloudapp
