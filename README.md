@@ -127,6 +127,6 @@ Install:
 ## Open questions:
 
 - ssh data is not covered by syncing
-- periodicaly: brew update && brew upgrade && brew upgrade brew-cask && brew cleanup && brew cask cleanup
+- periodicaly: brew update && brew upgrade && brew cask update && brew cleanup && brew cask cleanup
 This is candidate for periodic maintennce script.
 
