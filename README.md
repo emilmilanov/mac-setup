@@ -56,7 +56,6 @@
 
 - launch dropbox - login, run on startup set up
 - launch google chrome, sign in and set up sync
-- run gmail notifier, and log in
 - finder > settings > general > new window show dropbox folder
 - bettertouchtool - import settings file from mackup
 - launchbar - add folder to monitor: OPT with brew cask apps
@@ -65,8 +64,6 @@
 
 ## Install appstore apps
 
-- 1password
-- DaisyDisk
 - Day One
 - FoldingText
 - Icon Slate
@@ -77,6 +74,8 @@
 - codebox
 - pages
 - numbers
+- Airmail
+- Unclutter
 
 Launch apps above which require login.
 

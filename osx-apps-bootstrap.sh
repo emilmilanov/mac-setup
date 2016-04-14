@@ -31,6 +31,7 @@ apps=(
   keyboard-maestro
   totalfinder
   dropbox
+  google-drive
   bettertouchtool
   karabiner
   seil
@@ -52,7 +53,6 @@ apps=(
 
 # communication
   slack
-  gmail-notifier
   skype
 
 # services
