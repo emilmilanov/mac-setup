@@ -5,7 +5,11 @@
 
 ## Os X defaults
 
-`sh ~/Library/Mobile\ Documents/com~apple~CloudDocs/Mackup/shell/osx-bootstrap.sh`
+Download: https://github.com/emilmilanov/mac-setup/archive/master.zip
+
+`sh ~/Downloads/mac-setup-master/osx-bootstrap.sh`
+
+
 
 - logout
 - login
@@ -30,12 +34,11 @@
 
 ## Installing mac apps
 
-`sh ~/Library/Mobile\ Documents/com~apple~CloudDocs/Mackup/shell/osx-apps-bootstrap.sh`
-
+`sh ~/Downloads/mac-setup-master/osx-apps-bootstrap.sh`
 
 ## mackup restore
 
-`sh ~/Library/Mobile\ Documents/com~apple~CloudDocs/Mackup/shell/osx-mackup.sh`
+`sh ~/Downloads/mac-setup-master/osx-mackup.sh`
 
 - users & groups > login items > add launchbar
 - users & groups > login items > add keyboard maestro
