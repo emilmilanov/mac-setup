@@ -30,7 +30,6 @@ apps=(
   launchbar
   keyboard-maestro
   totalfinder
-  dropbox
   google-drive
   bettertouchtool
   karabiner
@@ -87,28 +86,8 @@ brew cask install ${fonts[@]}
 # cleanup
 brew cleanup && brew cask cleanup
 
-# After all this:
-# - open dropbox and sync
-# - copy Dropbox/Apps/Mackup/.mackup.cfg to user folder
-# -  mackup restore
 # Change zsh to default shell:
 chsh -s /bin/zsh
-git clone https://github.com/chriskempson/base16-shell.git ~/.config/base16-shell
-# - install appstore apps
-# - run bettertouchtool
-# - system settings > keyboard > modifier keys > set caps lock to no action
-# - run sail
-# - open km and select macros to sync
-# - Settings > keyboard > shortcuts > Mission control > switch to desktop 1
-# - Set dock to the right
-# - 20) Change finder home to dropbox folder ???
 
-# 21) Alfred
-#	b) enter password for alfred
-#	c) Set up color scheme
-#	d) Sync - enable to sync to app folder:
-#		1) quit alfred
-#		2) in iterm type:
-	defaults write com.runningwithcrayons.Alfred-Preferences dropbox.allowappsfolder -bool TRUE
-#		3) Launch alfred
-#		4) Set up sync
+# Base 16 shell
+git clone https://github.com/chriskempson/base16-shell.git ~/.config/base16-shell
