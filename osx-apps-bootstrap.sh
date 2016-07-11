@@ -12,6 +12,7 @@ binaries=(
   tmux
   ack
   vim
+  tidy-html5
 )
 
 echo "installing binaries..."
