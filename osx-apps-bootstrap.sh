@@ -60,7 +60,7 @@ apps=(
 
 # toys
   keyboardcleantool
-  caffeine
+  keepingyouawake
   tunnelbear
 
 # non work
