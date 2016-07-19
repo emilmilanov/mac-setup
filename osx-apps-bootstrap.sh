@@ -30,7 +30,6 @@ apps=(
   1password
   launchbar
   keyboard-maestro
-  totalfinder
   google-drive
   bettertouchtool
   karabiner
