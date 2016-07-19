@@ -67,6 +67,7 @@ apps=(
   utorrent
   airfoil
   vlc
+  spotify
 )
 
 # Install apps to /Applications
