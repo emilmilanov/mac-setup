@@ -10,7 +10,6 @@ Download: https://github.com/emilmilanov/mac-setup/archive/master.zip
 `sh ~/Downloads/mac-setup-master/osx-bootstrap.sh`
 
 
-
 - logout
 - login
 
@@ -42,7 +41,7 @@ Download: https://github.com/emilmilanov/mac-setup/archive/master.zip
 
 - users & groups > login items > add launchbar
 - users & groups > login items > add keyboard maestro
-- users & groups > login items > betterTouchTool ???
+- users & groups > login items > betterTouchTool
 
 
 ## Launch apps for accessibility reasons
@@ -52,14 +51,13 @@ Download: https://github.com/emilmilanov/mac-setup/archive/master.zip
 - karabiner
 - seil
 - bartender
-- security & privacy > privacy > accessibility > dropbox, bettertouch tool, karabiner, seil, keyboard maestro engine, launchbar applescript runner, launchbar
+- security & privacy > privacy > accessibility > bettertouch tool, karabiner, seil, keyboard maestro engine, launchbar applescript runner, launchbar
 
 
 # App settings
 
-- launch dropbox - login, run on startup set up
 - launch google chrome, sign in and set up sync
-- finder > settings > general > new window show dropbox folder
+- finder > settings > general > new window show google drive folder
 - bettertouchtool - import settings file from mackup
 - launchbar - add folder to monitor: OPT with brew cask apps
 - km - settings > general > Launch engine at login
@@ -67,18 +65,10 @@ Download: https://github.com/emilmilanov/mac-setup/archive/master.zip
 
 ## Install appstore apps
 
-- Day One
-- FoldingText
 - Icon Slate
 - Inboard - make images backup
 - soulver
-- Wunderlist
-- Cloudapp
 - codebox
-- pages
-- numbers
-- Airmail
-- Unclutter
 
 Launch apps above which require login.
 

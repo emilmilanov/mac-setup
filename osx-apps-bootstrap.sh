@@ -27,6 +27,7 @@ brew tap caskroom/fonts
 apps=(
 
 # System
+  ticktick
   1password
   launchbar
   keyboard-maestro
@@ -39,11 +40,12 @@ apps=(
   bartender
   appcleaner
   easyfind
+  resolutionator
+  totalspaces
 
 # development
   iterm2-nightly
   macvim
-  codekit
   firefox
   transmit
   imageoptim
@@ -61,6 +63,7 @@ apps=(
   keyboardcleantool
   keepingyouawake
   tunnelbear
+
 
 # non work
   utorrent
