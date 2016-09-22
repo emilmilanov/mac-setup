@@ -13,6 +13,7 @@ binaries=(
   ack
   vim
   tidy-html5
+  node
 )
 
 echo "installing binaries..."
