@@ -43,6 +43,7 @@ apps=(
   easyfind
   resolutionator
   totalspaces
+  dropshare
 
 # development
   iterm2-nightly
