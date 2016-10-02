@@ -14,6 +14,7 @@ binaries=(
   vim
   tidy-html5
   node
+  reattach-to-user-namespace
 )
 
 echo "installing binaries..."
