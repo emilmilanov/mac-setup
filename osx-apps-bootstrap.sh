@@ -45,6 +45,7 @@ apps=(
   resolutionator
   totalspaces
   dropshare
+  iconjar
 
 # development
   iterm2-nightly
