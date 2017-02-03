@@ -15,6 +15,7 @@ binaries=(
   tidy-html5
   node
   reattach-to-user-namespace
+  switchaudio-osx
 )
 
 echo "installing binaries..."
