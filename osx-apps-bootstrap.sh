@@ -36,8 +36,7 @@ apps=(
   keyboard-maestro
   google-drive
   bettertouchtool
-  karabiner
-  seil
+  karabiner-elements
   google-chrome
   the-unarchiver
   bartender
