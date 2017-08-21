@@ -37,6 +37,7 @@ apps=(
   google-drive
   bettertouchtool
   karabiner-elements
+  hammerspoon
   google-chrome
   the-unarchiver
   bartender
