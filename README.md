@@ -124,3 +124,5 @@ This is candidate for periodic maintennce script.
 
 - Key repeat bug for vim mode in folding text
 `defaults write com.foldingtext.FoldingText ApplePressAndHoldEnabled -bool false`
+
+
