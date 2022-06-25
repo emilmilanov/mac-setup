@@ -31,7 +31,6 @@ apps=(
 
 # System
   1password
-  google-drive
   karabiner-elements
   hammerspoon
   google-chrome
