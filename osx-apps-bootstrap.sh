@@ -30,51 +30,27 @@ brew tap caskroom/fonts
 apps=(
 
 # System
-  ticktick
   1password
-  launchbar
-  keyboard-maestro
   google-drive
-  bettertouchtool
   karabiner-elements
   hammerspoon
   google-chrome
-  the-unarchiver
   bartender
   appcleaner
-  easyfind
   resolutionator
-  totalspaces
-  dropshare
-  iconjar
+  iterm2
+  figma
+  zoom
+  meetingbar
 
 # development
-  iterm2-nightly
   macvim
   firefox
-  transmit
   imageoptim
-  sketch
-  sketch-toolbox
-
-# communication
-  slack
-  skype
-
-# services
-  harvest
-
-# toys
-  keyboardcleantool
-  keepingyouawake
-  tunnelbear
-
 
 # non work
   utorrent
-  airfoil
   vlc
-  spotify
 )
 
 # Install apps to /Applications
