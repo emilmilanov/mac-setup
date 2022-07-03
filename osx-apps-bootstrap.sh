@@ -41,6 +41,7 @@ apps=(
   figma
   zoom
   meetingbar
+  raycast
 
 # development
   macvim
@@ -48,7 +49,7 @@ apps=(
   imageoptim
 
 # non work
-  utorrent
+  transmission
   vlc
 )
 
