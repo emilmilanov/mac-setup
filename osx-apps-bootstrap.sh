@@ -7,15 +7,13 @@ fi
 
 # brew
 binaries=(
-  caskroom/cask/brew-cask
   mackup
+  vim
+  node
   tmux
   ack
-  vim
   tidy-html5
-  node
   reattach-to-user-namespace
-  switchaudio-osx
 )
 
 echo "installing binaries..."
@@ -23,8 +21,8 @@ brew install ${binaries[@]}
 brew cleanup
 
 # Brew which has tap so I'm typing it separately
-brew tap caskroom/versions
-brew tap caskroom/fonts
+brew tap homebrew/cask-versions
+brew tap homebrew/cask-fonts
 
 # Brew cask Apps
 apps=(
@@ -42,11 +40,13 @@ apps=(
   zoom
   meetingbar
   raycast
+  notion
 
 # development
   macvim
   firefox
   imageoptim
+  visual-studio-code
 
 # non work
   transmission
@@ -56,7 +56,7 @@ apps=(
 # Install apps to /Applications
 # Default is: /Users/$user/Applications
 echo "installing apps..."
-brew cask install --appdir="/Applications" ${apps[@]}
+brew install --appdir="/Applications" --cask ${apps[@]}
 
 
 # fonts
@@ -66,10 +66,13 @@ fonts=(
 
 # install fonts
 echo "installing fonts..."
-brew cask install ${fonts[@]}
+brew install ${fonts[@]} --cask
 
 # cleanup
-brew cleanup && brew cask cleanup
+brew cleanup && brew cleanup
+
+# Oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Change zsh to default shell:
 chsh -s /bin/zsh
