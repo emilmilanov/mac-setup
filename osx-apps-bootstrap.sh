@@ -51,6 +51,7 @@ apps=(
 # non work
   transmission
   vlc
+  airflow
 )
 
 # Install apps to /Applications
